@@ -1,0 +1,159 @@
+[
+  [
+    "What color do you think the upvote button on Reddit is?",
+    ["Red", "Orange", "Blue", "I have no idea"]
+  ],
+  ["What would you rather do?", ["Meet Cardi B", "Find $10"]],
+  [
+    "You live in a world where all stereotypes are true, where do you want to live.",
+    ["USA", "UK", "Canada", "Russia", "Australia", "Japan"]
+  ],
+  [
+    "When do you get naked when you're about to take a shower",
+    [
+      "Before I turn on the water",
+      "When the water is on",
+      "When the water is warm",
+      "While in the water",
+      "I shower with clothes on"
+    ]
+  ],
+  [
+    "(If you had to choose between these options only) I would rather live in a World dominated by...",
+    ["The Chinese (PRC)", "The Americans", "The Russians", "The Europeans (EU)"]
+  ],
+  [
+    "Would you rather:",
+    ["Get $1 for every step you take.", "Get $20 every time you jump."]
+  ],
+  [
+    "On a scale of 1-6 (1 being low and 6 being high), how much do you hate disorganization in polls?",
+    ["4", "3", "1", "6", "2", "5"]
+  ],
+  [
+    "I have an argument with a friend - Does water have a taste?",
+    ["Yes, water has got a taste", "No, water is tasteless"]
+  ],
+  ["What's the real Football?", ["American Football", "Football (Soccer)"]],
+  [
+    "At what age should children have phones?",
+    ["5-8", "9-11", "12-14", "15-18"]
+  ],
+  [
+    "Would you eat lab-grown meat if it becomes mainstream?",
+    [
+      "Non-Vegetarian, Yes",
+      "Non-Vegetarian, No",
+      "Vegetarian, Yes",
+      "Vegetarian, No",
+      "Vegan, Yes",
+      "Vegan, No"
+    ]
+  ],
+  [
+    "What type of natural disaster would you prefer if it was inevitable?",
+    [
+      "Hurricane/Flooding",
+      "Tornado",
+      "Blizzard",
+      "Tsunami",
+      "Volcano/Wildfire",
+      "Earthquake/Landslide"
+    ]
+  ],
+  [
+    "What kind of Redditor are you?",
+    [
+      "Someone who posts and comments much",
+      "Someone who comments much",
+      "Someone who posts much",
+      "Someone who sometimes posts / comments",
+      "Someone who rarely posts / comments",
+      "Someone who never posts / comments",
+      "I don't use Reddit"
+    ]
+  ],
+  ["Do you like winter or summer more?", ["Winter", "Summer"]],
+  [
+    "Would you rather quarantine for 2 straight months and covid goes away or continue to live a normal life and hope it goes away",
+    ["2 month lockdown", "Live in freedom"]
+  ],
+  [
+    "How long do you spend in the shower on average?",
+    [
+      "Less than 5 minutes",
+      "5 - 9 minutes",
+      "10 - 14 minutes",
+      "15 - 19 minutes",
+      "20 - 24 minutes",
+      "25 minutes or more"
+    ]
+  ],
+  [
+    "If Jesus stood on a river would he stand still or move like on a conveyor belt?",
+    ["Stand still", "Move like on a conveyor belt"]
+  ],
+  [
+    "With which statement do you most agree?",
+    ["Most people are good", "Most people suck"]
+  ],
+  [
+    "Raindrops are racing down your car window. Which raindrop will win? Option with most votes wins.",
+    [
+      "Raindrop one",
+      "Raindrop two",
+      "Raindrop three",
+      "Raindrop four",
+      "Raindrop five",
+      "Raindrop six"
+    ]
+  ],
+  [
+    "If you could choose one of these religions to control the entire world and have everyone obey its rules by the letter, which one would you choose?",
+    [
+      "Christianity",
+      "Hinduism",
+      "Islam",
+      "Judaism",
+      "Bhuddism",
+      "Other (Not atheism)"
+    ]
+  ],
+  ["Tea or Coffee, which is better?", ["Coffee", "Tea"]],
+  ["Are people who only play mobile games gamers?", ["Yes", "No"]],
+  [
+    "Which of these conditions is worse in your opinion?",
+    ["Blind", "Mute", "Deaf"]
+  ],
+  ["Which one is superior?", [":)", "(:"]],
+  ["Which one do you use?", ["App Reddit", "Website Reddit"]],
+  [
+    "Who was your first kiss with",
+    [
+      "Crush",
+      "Stranger",
+      "Boyfriend/Girlfriend/Husband/Wife",
+      "A friend you didn't have true feelings for",
+      "Other",
+      "Haven't had first kiss yet"
+    ]
+  ],
+  [
+    "Would you rather only hear",
+    [
+      "songs and music released before the year you were born",
+      "songs and music released after the year you were born"
+    ]
+  ],
+  [
+    "How do you orient your phone in your pocket?",
+    [
+      "Screen facing thigh, camera up",
+      "Screen facing thigh, camera down",
+      "Screen facing out, camera up",
+      "Screen facing out, camera done",
+      "Other"
+    ]
+  ],
+  ["NEW or OLD reddit?", ["New reddit", "Old reddit", "I don't use reddit"]]
+]
